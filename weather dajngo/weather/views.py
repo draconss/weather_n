@@ -11,6 +11,7 @@ from datetime import datetime
 # Create your views here.
 
 import json
+#ajax select 2 get data
 def data_city(req):
     if req.is_ajax():
         data = req.GET['term']
@@ -22,7 +23,7 @@ def data_city(req):
             return JsonResponse({"results": ex})
         else:
             return JsonResponse({})
-
+#start page
 class Start(View):
 
     def get(self, request, *args, **kwargs):
@@ -48,7 +49,7 @@ class Start(View):
         return render(request, 'start.html',{'err':'city not found'})
 
 
-
+#list page and filters
 class Data_C(ListView):
     model = City
     template_name = 'data.html'

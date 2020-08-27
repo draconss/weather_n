@@ -1,5 +1,6 @@
 
 import json
+#function transform json for data load on database
 def load():
     ex = []
     with open('../static/city.list.json',encoding='utf-8') as json_file:
