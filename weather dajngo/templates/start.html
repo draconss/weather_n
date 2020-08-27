@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% block head %}
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/page_st.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="{% static 'js/select2-4.0.3/dist/css/select2.min.css' %}">
+    <script src="{% static 'js/select2-4.0.3/dist/js/select2.min.js' %}"></script>
+
+{% endblock %}
+
+{% block content %}
+
+
+    <div class="card mx-auto">
+        <img class="card-img" src="{% static 'bg.jpg' %}" alt="...">
+        <div class="card-img-overlay text-white">
+            <h4 class="card-title">Enter city names</h4>
+                <form action="" method="post" class="input_form">
+                    {% csrf_token %}
+                        <select name="city" id="list_city" required></select>
+                        <input class="btn btn-success" type="submit" value="seach">
+                </form>
+            {% if err %}
+                <div><p class="err">{{ err }}</p></div>
+            {% endif %}
+        </div>
+    </div>
+    </div>
+
+{% endblock %}
+
+{% block scritp %}
+    <script>
+        $(document).ready(function() {
+            $('#list_city').select2({
+                minimumInputLength:3,
+
+                    ajax: {
+                        url: "{% url 'data_city' %}",
+                        dataType: 'json'
+                        }
+            });
+        });
+    </script>
+{% endblock %}
