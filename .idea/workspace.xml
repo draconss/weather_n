@@ -1,510 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bb09283-ed0a-4df7-a9d2-6e3defc54128" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/weather dajngo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/.idea/test_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/css/page_data.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/css/page_st.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/css/start_page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/.jshintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/css/select2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/css/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/az.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/hi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/km.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/mk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/ms.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/pt-BR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/sr-Cyrl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/vi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/zh-CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/i18n/zh-TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/select2.full.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/select2.full.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/select2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/dist/js/select2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/basics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/data.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/disabled-mode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/disabled-results.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/hide-search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/localization-rtl-diacritics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/matcher.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/multiple-max.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/placeholders.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/programmatic-control.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/themes-templating-responsive-design.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/examples/tokenizer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/ga.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/js-source-states.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/nav/announcements-4.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/nav/examples.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/nav/options-old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/nav/options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/notice-previous.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options-old/adapters.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options-old/backwards-compatibility.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options-old/core-options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options-old/dropdown.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options-old/events.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options-old/setting-default-options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/compatibility.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/compatibility/initial-selection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/compatibility/introduction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/compatibility/matcher.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/compatibility/query-function.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/compatibility/text-input.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/core.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/core/amd-support.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/core/data-attributes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/core/options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/data.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/data/ajax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/data/array.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/data/select.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/dropdown.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/dropdown/filtering.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/dropdown/placement.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/dropdown/selections.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/dropdown/tagging.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/events.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/events/internal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/events/jquery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/introduction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/not-written.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/selections.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/selections/clearing-selections.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/selections/multiple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/selections/placeholder.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/options/selections/templating.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_includes/social-buttons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_layouts/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_anchorjs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_dl-panels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_examples.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_featurette.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_hamburger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_home.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_jumbotron.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_nav.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_prettify.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_result-repository.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_sidenav.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_social.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_syntax-highlighting.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_alerts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_badges.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_breadcrumbs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_button-groups.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_close.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_component-animations.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_dropdowns.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_glyphicons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_input-groups.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_jumbotron.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_labels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_modals.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_navs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_pager.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_panels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_popovers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_print.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_progress-bars.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_responsive-embed.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_responsive-utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_scaffolding.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_thumbnails.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_tooltip.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_type.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/_wells.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_alerts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_center-block.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_hide-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_labels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_nav-vertical-align.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_opacity.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_panels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_progress-bar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_reset-filter.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_resize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_responsive-visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_tab-focus.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_table-row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_text-overflow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/bootstrap/mixins/_vendor-prefixes.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/_sass/vendor/font-awesome/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/announcements-4.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/community.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/css/bootstrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/css/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/css/s2-docs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/examples.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/android-chrome-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/android-chrome-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/android-chrome-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/apple-touch-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/mstile-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/images/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/options-old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ak.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/al.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/az.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ca.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/co.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ct.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/de.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/fl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ga.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/hi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/id.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/il.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ky.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/la.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ma.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/md.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/me.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/mi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/mn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/mo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ms.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/mt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/nc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/nd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ne.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/nh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/nj.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/nm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/nv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ny.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/oh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ok.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/or.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/pa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ri.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/sc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/sd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/tn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/tx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/ut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/va.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/vt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/wa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/wi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/wv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/images/flags/wy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/js/anchor.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/js/placeholders.jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/docs/vendor/js/prettify.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/select2.jquery.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/banner.end.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/banner.start.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/jquery.mousewheel.shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/jquery.select2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/jquery.shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/compat/containerCss.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/compat/dropdownCss.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/compat/initSelection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/compat/inputData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/compat/matcher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/compat/query.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/compat/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/data/ajax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/data/array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/data/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/data/maximumInputLength.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/data/maximumSelectionLength.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/data/minimumInputLength.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/data/select.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/data/tags.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/data/tokenizer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/diacritics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/dropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/dropdown/attachBody.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/dropdown/attachContainer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/dropdown/closeOnSelect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/dropdown/hidePlaceholder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/dropdown/infiniteScroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/dropdown/minimumResultsForSearch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/dropdown/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/dropdown/selectOnClose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/dropdown/stopPropagation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/az.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/hi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/km.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/mk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/ms.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/pt-BR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/sr-Cyrl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/vi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/zh-CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/i18n/zh-TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/keys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/results.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/selection/allowClear.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/selection/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/selection/clickMask.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/selection/eventRelay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/selection/multiple.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/selection/placeholder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/selection/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/selection/single.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/selection/stopPropagation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/translation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/select2/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/wrapper.end.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/js/wrapper.start.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/_dropdown.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/_multiple.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/_single.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/theme/classic/_defaults.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/theme/classic/_multiple.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/theme/classic/_single.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/theme/classic/layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/theme/default/_multiple.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/theme/default/_single.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/src/scss/theme/default/layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/a11y/search-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/a11y/selection-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/data/array-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/data/base-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/data/inputData-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/data/maximumInputLength-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/data/maximumSelectionLength-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/data/minimumInputLength-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/data/select-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/data/tags-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/data/tokenizer-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/dropdown/dropdownCss-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/dropdown/positioning-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/dropdown/selectOnClose-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/dropdown/stopPropagation-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/integration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/integration/dom-changes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/integration/jquery-calls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/integration/select2-methods.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/options/ajax-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/options/data-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/options/deprecated-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/options/translation-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/options/width-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/results/focusing-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/selection/allowClear-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/selection/containerCss-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/selection/multiple-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/selection/placeholder-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/selection/search-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/selection/single-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/selection/stopPropagation-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/unit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/utils/decorator-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/utils/escapeMarkup-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/vendor/jquery-1.7.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/vendor/qunit-1.23.1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/tests/vendor/qunit-1.23.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/static/js/select2-4.0.3/vendor/jquery-2.1.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/templates/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/templates/data.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/templates/start.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/test_1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/test_1/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/test_1/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/test_1/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/test_1/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/migrations/0002_auto_20200827_1502.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/migrations/0003_auto_20200827_1824.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/migrations/0004_auto_20200827_1829.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather dajngo/weather/views.py" beforeDir="false" />
+    <list default="true" id="4bb09283-ed0a-4df7-a9d2-6e3defc54128" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/weather_n.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/weather_n.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -513,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JupyterTrust" id="3139e020-7be1-4a41-85c4-423a4b08d825" />
   <component name="ProjectId" id="1gvQcsoqcYq5Z4GcKiuZ7BxkAS8" />
@@ -523,7 +41,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_1/settings.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="django" type="Python.DjangoServer" factoryName="Django server">
+      <module name="weather_n" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="test_1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -535,20 +80,53 @@
       <updated>1598992668689</updated>
       <workItem from="1598992670080" duration="362000" />
       <workItem from="1598993040045" duration="88000" />
+      <workItem from="1598993149802" duration="495000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1598993401261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598993401261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="76" y="127" width="1084" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598993000717">
+    <state x="707" y="142" width="1084" height="760" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598993645584">
       <screen x="0" y="0" width="1920" height="935" />
     </state>
-    <state x="76" y="127" width="1084" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.935@0.0.1920.935" timestamp="1598993000717" />
-    <state x="464" y="102" key="SettingsEditor" timestamp="1598993022547">
+    <state x="707" y="142" width="1084" height="760" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.935@0.0.1920.935" timestamp="1598993645584" />
+    <state x="368" y="210" width="424" height="505" key="FileChooserDialogImpl" timestamp="1598993553845">
       <screen x="0" y="0" width="1920" height="935" />
     </state>
-    <state x="464" y="102" key="SettingsEditor/0.0.1920.935@0.0.1920.935" timestamp="1598993022547" />
+    <state x="368" y="210" width="424" height="505" key="FileChooserDialogImpl/0.0.1920.935@0.0.1920.935" timestamp="1598993553845" />
+    <state x="464" y="102" key="SettingsEditor" timestamp="1598993570201">
+      <screen x="0" y="0" width="1920" height="935" />
+    </state>
+    <state x="464" y="102" key="SettingsEditor/0.0.1920.935@0.0.1920.935" timestamp="1598993570201" />
+    <state x="288" y="140" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598993346966">
+      <screen x="0" y="0" width="671" height="340" />
+    </state>
+    <state x="955" y="404" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.935@0.0.1920.935" timestamp="1598993181174" />
+    <state x="288" y="140" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.671.340@0.0.671.340" timestamp="1598993346966" />
   </component>
 </project>
